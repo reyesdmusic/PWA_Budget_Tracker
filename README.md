@@ -20,7 +20,7 @@ This PWA works online and offline. While offline, transactions are stored locall
 Additionally, using a webmanifest and service worker, this app can be installed as a mobile app.
 
 ## Deployed App <a name="installLink"></a>
-[Go to app:](https://intense-journey-40815.herokuapp.com/)
+#### Deployed App:  [https://intense-journey-40815.herokuapp.com/](https://intense-journey-40815.herokuapp.com/)
 
 
 ## Install <a name="installLink"></a>
